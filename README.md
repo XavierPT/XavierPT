@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi everyone, I'm Xavier 👋
 
-<!--
-**XavierPT/XavierPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=XavierPT.XavierPT)
+<br />
+
+![Github Stats XavierPT](https://github-readme-stats.vercel.app/api?username=XavierPT&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XavierPT&layout=compact&theme=tokyonight&langs_count=10)
+
+
+- 💬 Contact me as @XavierPT
+
+
