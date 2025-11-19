@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Xavier 👋
 
-*Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
+*Software Engineer graduated at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=XavierPT.XavierPT)
